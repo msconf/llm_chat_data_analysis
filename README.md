@@ -67,11 +67,11 @@ chmod 775 ./app.bin && ./app.bin
 
 #### 参数说明：
 
-    user_query：用户自然查询语句
+    user_query *：用户自然查询语句
     sql_text：SQL语句（需要分析的数据的查询语句）
     json_datas：需要分析的数据，JSON格式
 
-    json_datas、sql_text参数至少需要一个，如果同时提供两个参数，则优先使用sql_text参数。
+    json_datas、sql_text 参数至少需要一个，如果同时提供两个参数，则优先使用sql_text参数。
 
 #### 请求格式：
 
