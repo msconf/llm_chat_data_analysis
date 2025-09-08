@@ -1,7 +1,7 @@
 # [中文](README.md) | [English](README-en.md)
 # 🚀 llm_chat_data_analysis
 
-通过自然语言指令，使用 AI + Pandas 进行数据分析，并输出结构化结果。  
+通过自然语言指令，进行数据分析，并输出结构化结果。  
 HTTP请求，开箱即用，无需编写代码。
 
 > 📌 项目目标：通过对话完成数据分析。
