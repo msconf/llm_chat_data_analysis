@@ -2,7 +2,7 @@
 
 # 🚀 llm_chat_data_analysis
 
-Analyze data using AI + Pandas through natural language instructions and output structured results.  
+Analyze data through natural language instructions and output structured results.
 HTTP requests, ready to use out of the box, no coding required.
 
 > 📌 Project Objective: Complete data analysis through conversation.
