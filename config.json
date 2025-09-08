@@ -1,0 +1,16 @@
+{
+  "SERVER_PORT": "8001",
+  "LLM": {
+    "OPENAI_API_KEY": "xxxx",
+    "OPENAI_API_BASE_URL": "http://x.x.x.x:x/v1",
+    "OPENAI_API_MODEL": "Qwen",
+    "OPENAI_API_EXTRA_BODY": "{\"chat_template_kwargs\":{\"enable_thinking\":false}}"
+  },
+  "DB": {
+    "DB_HOST": "x.x.x.x",
+    "DB_PORT": "3306",
+    "DB_USER": "root",
+    "DB_PASSWORD": "xxxx",
+    "DB_NAME": "xxxx"
+  }
+}
